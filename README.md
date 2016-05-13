@@ -1,2 +1,2 @@
 # Web_classTrail
-Demo : http://trail-40241124.rhcloud.com/
+Demo : http://trial-40241124.rhcloud.com
